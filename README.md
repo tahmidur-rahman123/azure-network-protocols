@@ -21,7 +21,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 <h2>High-Level Steps</h2>
 
-- Step 1
+- Create two Virtual Machines, Windows 10 and Linux (Ubuntu) Virtual Machine
 - Step 2
 - Step 3
 - Step 4
